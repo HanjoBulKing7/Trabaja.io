@@ -1,4 +1,4 @@
-# 🎯 Some Job Hunting App
+# 🎯 Trabaja.io
 
 > *Idea original y en base al sufrimiento de alguien que también lo vivió.*
 
